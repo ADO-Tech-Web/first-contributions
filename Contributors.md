@@ -18,6 +18,7 @@
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
+- [Akua Konadu](https://github.com/ADO-Tech-Web)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - [Idehen Gideon](https://github.com/gi3-14)
 - [Dohyun Kim](https://github.com/dohyundev)
